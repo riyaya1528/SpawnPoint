@@ -1,0 +1,7 @@
+name: SpawnPoint
+version: '${project.version}'
+main: net.riyaya.spawnpoint.SpawnPoint
+api-version: 1.18
+permissions:
+  SpawnPoint.bypass:
+    description: Ignore set spawn
